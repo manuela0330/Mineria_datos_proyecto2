@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 #Segundo Proyecto minería de datos
 
+Para ejecutar el proyecto, clonelo primero y luego corra en la terminal 
+
+'bash proyecto_2.sh'
 
 #parte 1, Coordenadas de Omega Centauri
 
